@@ -95,4 +95,9 @@ Si nous devions résumer la procédure de traitement des données, les
 
 ### Module 6
 
-TODO
+A la fin de ce module, vous devez avoir ajouté une section à votre
+document R Markdown (comme un carnet de notes (Notebook)) débuté lors du
+module 5 portant sur la méthode des K-moyennes.
+
+Réalisez un regroupement des stations avec la méthode des K-moyennes.
+Comparez ensuite le regroupement obtenu avec K-moyennes et avec le CAH
