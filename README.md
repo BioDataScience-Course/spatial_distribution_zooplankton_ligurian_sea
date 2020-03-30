@@ -124,3 +124,14 @@ de critiquer et comparer les méthodes entre elles. Il est temps
 d’extraire de ce notebook l’information la plus pertinente en un
 rapport structuré. Créez un nouveau document au format `.Rmd` (le format
 de sortie doit être en `html`).
+
+### Module 8
+
+A la fin de ce module, vous devez avoir ajouté une section à votre
+document R Markdown (comme un carnet de notes (Notebook)) débuté lors du
+module 5 portant sur la méthode des K-moyennes.
+
+Utilisez les indices de diversité dans ce projet.
+
+Continuez à rédiger votre rapport structuré et de synthèse débuté au
+cours du module 7.
