@@ -115,7 +115,7 @@ A la fin de ce module, vous devez avoir ajouté une section à votre
 document R Markdown (comme un carnet de notes (Notebook)) débuté lors du
 module 5 portant sur la méthode des K-moyennes.
 
-Utilisez l’ACP dans ce projet. Comparez vos résultats avec les analyses
+Utilisez l’ACP et l'AFC dans ce projet. Comparez vos résultats avec les analyses
 multivariées précédentes
 
 Au cours des modules précédents, vous avez réalisé un notebook qui
@@ -125,6 +125,8 @@ d’extraire de ce notebook l’information la plus pertinente en un
 rapport structuré. Créez un nouveau document au format `.Rmd` (le format
 de sortie doit être en `html`).
 
+Pour rappel, un rapport de synthèse comprend une section introduction, une section but, une section M&M, une section résultats, une section discussion, une section conclusion. Vous devez concevoir ce document comme un rapport scientifique structuré, synthétique et court. Vous ne devez y intégrer que les analyses les plus pertinentes. Vous devez limiter vos graphiques aux graphiques les plus informatifs. Chacune des méthodes ne doit pas figurer dans ce rapport de synthèse. Il faut employer les méthodes les plus pertinentes.
+
 ### Module 8
 
 A la fin de ce module, vous devez avoir ajouté une section à votre
@@ -132,6 +134,7 @@ document R Markdown (comme un carnet de notes (Notebook)) débuté lors du
 module 5 portant sur la méthode des K-moyennes.
 
 Utilisez les indices de diversité dans ce projet.
+Utilisez l'AFM dans ce projet.
 
 Continuez à rédiger votre rapport structuré et de synthèse débuté au
 cours du module 7.
